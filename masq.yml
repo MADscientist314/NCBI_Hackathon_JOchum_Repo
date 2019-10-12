@@ -1,5 +1,8 @@
-channel:
-- default
+channels:
+- defaults
+- conda-forge
+- bioconda
+- defaults
 dependencies:
 - bwa
 - minimap2
