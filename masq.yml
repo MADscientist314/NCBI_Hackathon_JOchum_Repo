@@ -1,5 +1,8 @@
-bwa
-minimap2
-sniffles
-manta
-truvari
+channel:
+- default
+dependencies:
+- bwa
+- minimap2
+- sniffles
+- manta
+- truvari
