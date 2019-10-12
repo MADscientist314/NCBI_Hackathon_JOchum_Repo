@@ -1,6 +1,6 @@
 dependencies:
-bwa
-minimap2
-sniffles
-manta
-truvari
+- bwa
+- minimap2
+- sniffles
+- manta
+- truvari
