@@ -1,8 +1,0 @@
-channels:
-- bioconda
-dependencies:
-- bwa
-- minimap2
-- sniffles
-- manta
-- truvari
